@@ -1,0 +1,22 @@
+{% extends 'home/base.html' %}
+
+{% block content %}
+
+<h1>caltech</h1>
+
+<h2>Caltech is one fo the Best College's in the USA</h2>
+
+<h2>here are some facts about caltech</h2>
+
+<ol>
+ <li>64 Caltech faculty and alumni have received a National Medal of Science</li>
+ <li>Before the Rose Bowl was built, football teams faced off at Pasadena's Tournament Park, now a part of campus.</li>
+ <li>Caltech runs the Palomar and W. M. Keck observatories</li>
+ <li>90% of undergraduates participate in research</li>
+ <li>Caltech has more than 24,000 living alumni</li>
+ </ol>
+ 
+ 
+
+
+{% endblock %}
