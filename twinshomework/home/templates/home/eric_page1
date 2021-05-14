@@ -2,17 +2,28 @@
 
 {% block content %}
 
-<h3>Bellevue college</h3>
+<h1Bellevue College</h1>
 
 
-<h2>Bellevue college major's>
+<h2>Here are some facts about Bellevue College</h2>
+
+<ul>
+<li>Bellevue College was founded in January 1966.</li>
+<li>It is the 3rd largest institution of higher learning in Washington state.</li>
+<li>As of 2017, more than 460,000 people have taken a class at Bellevue College, and 58,515 students have earned 50,562 degrees, certificates, and other awards since its founding in 1966.</li>
+<li>Bellevue College has 18 buildings, including 12 academic buildings and one parking garage, with more than 813,309 square feet of space. Of that, 742,784 square feet is dedicated classroom/instructional space.</li>
+<li>The 100 acre campus includes a planetarium, gymnasium, fitness center, art gallery, library, cafeteria, coffee shops, theater, and a variety of common areas.</li>
+<li>Bellevue College is known as the Bulldogs.</li>
+
+
+<h2>Bellevue College major's>
 
 <ul>
 <li>Neuroscience</li>
 <li>Computer Science</li>
-<li> Accounting</li>
-<li>management</li>
-<li>Video Game Desing</li>
+<li>Accounting</li>
+<li>Management</li>
+<li>Video Game Design</li>
 </ul>
 
 <h1> and many more major's</h1>
@@ -23,7 +34,7 @@
 <h2>Information you'll need to get in</h2>
 
 <p>
-Complete 180 credits with a minimum 2.0 cumulative GPA and minimum GPA of 2.0 for each individual core course (including transferred credits) in all core program courses. At least 45 quarter credits for the degree must be completed in residence at Bellevue College, of which 30 credits must be upper division
+Bellevue College is an open admission policy institution. Therefore they require that you have a high school diploma or equivalent. They work with any other area that needs additional improvements.
 </p>
 
 {% endblock %}
